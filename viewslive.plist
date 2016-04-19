@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.viewslive.viewslive</string>
 				<key>bundle-version</key>
-				<string>1.2.3</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>viewslive</string>
+				<string>众说视界</string>
 			</dict>
 		</dict>
 	</array>
